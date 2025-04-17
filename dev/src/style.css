@@ -15,11 +15,5 @@
   [data-lucide] {
     @apply size-[1.25cap];
   }
-  body {
-    --_color: #fee354;
-    /* --_color: #fee354; */
-    background: var(--_color);
-    background: -webkit-linear-gradient(185deg, var(--_color) 0%, #f4f4f5 40%);
-    background: linear-gradient(185deg, var(--_color) 0%, #f4f4f5 40%);
-  }
+
 }
